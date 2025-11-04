@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Backend and Machine Learning Projects
 - 📫 How to reach me kodinapetra@yahoo.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to explore
 
 <!---
 gerardzikpi/gerardzikpi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
