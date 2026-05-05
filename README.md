@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @gerardzikpi
+# 👋 Hi, I’m Gerard
+###### It's nice to meet you 😉
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Java after completing Python
 - 💞️ I’m looking forward to collaborate on Backend and Machine Learning Projects
